@@ -1,0 +1,59 @@
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.exe.config
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.exe
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.pdb
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBinding.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\MainWindow.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\App.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.cache
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.lref
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBinding.baml
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\MainWindow.baml
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.g.resources
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.csproj.GenerateResource.Cache
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.exe
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.pdb
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingLoadCollection.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingLoadCollection.baml
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDataGrid.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDataGrid.baml
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDetails.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ryu\Desktop\Week03-Review\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDetails.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.exe.config
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.exe
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.pdb
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.exe
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.pdb
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBinding.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDataGrid.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDetails.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingLoadCollection.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\MainWindow.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\App.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.cache
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.lref
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBinding.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDataGrid.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDetails.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\DataBindingLoadCollection.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\MainWindow.baml
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.g.resources
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.Properties.Resources.resources
+C:\Users\Ryu\Desktop\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.csproj.GenerateResource.Cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\bin\Debug\Week05_DataBinding_Assignment3.exe.config
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.exe
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.pdb
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\DataBinding.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDataGrid.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\DataBindingDetails.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\DataBindingLoadCollection.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\MainWindow.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\App.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.cache
+C:\Users\Ryu\Documents\Centennial College - Software Engineering\Semester 4\[COMP 212] Programming 3 (Section 004)\Week05-Assignment3\Week05_DataBinding_Assignment3\obj\Debug\Week05_DataBinding_Assignment3_MarkupCompile.lref

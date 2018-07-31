@@ -1,0 +1,60 @@
+﻿<Window x:Class="Week05_DataBinding_Assignment3.DataBindingDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Week05_DataBinding_Assignment3"
+        mc:Ignorable="d"
+        Title="DataBindingDetails" Height="500" Width="500">
+    <Window.Resources>
+        <local:DataBindingDetails x:Key="LaptopList" />
+        <local:BoolToSSDConverter x:Key="convertSsd" /> <!-- If it is an error, just running program. Then it will be resolved -->
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title of each lists -->
+        <Label Content="List of all laptops" />
+        <Label Content="List of all included items" Grid.Row="2" />
+        
+        <!-- Laptop list panel -->
+        <ListView Grid.Row="1" Name="listViewLaptops" ItemsSource="{Binding}" SelectedIndex="0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn>
+                        <GridViewColumnHeader>Picture</GridViewColumnHeader>
+
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Height="65" Source="{Binding Path=Handle}" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+
+                    <GridViewColumn Header="Brand" DisplayMemberBinding="{Binding Path=Brand}" />
+                    <GridViewColumn Header="Model No" DisplayMemberBinding="{Binding Path=ModelNo}" />
+                    <GridViewColumn Header="SSD Selection" DisplayMemberBinding="{Binding Path=IsSsd, Converter={StaticResource convertSsd}}" />
+                    <GridViewColumn Header="Serial No" DisplayMemberBinding="{Binding Path=SerialNo}" />
+                    <GridViewColumn Header="Color" DisplayMemberBinding="{Binding Path=Color}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        
+        <!-- Included item list panel -->
+        <DataGrid Grid.Row="3" ItemsSource="{Binding ElementName=listViewLaptops, Path=SelectedItem.Include}">
+            <DataGrid.ToolTip>
+                <ToolTip>
+                    <TextBlock Text="{Binding ElementName=listViewLaptops, Path=SelectedItem.Brand}" />
+                </ToolTip>
+            </DataGrid.ToolTip>
+        </DataGrid>
+    </Grid>
+</Window>
